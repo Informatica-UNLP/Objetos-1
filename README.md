@@ -23,11 +23,11 @@ Ejercicios de la materia Orientación a Objetos 1 (Facultad de Informática, UNL
 | 21 | Even Number Set | [src](ejercicio21-EvenNumberSet/src/main/java) | [test](ejercicio21-EvenNumberSet/src/test/java) |
 | 22 | Alquiler de propiedades | [src](ejercicio22.AlquilerDePropiedades/src/main/java) | [test](ejercicio22.AlquilerDePropiedades/src/test/java) |
 | 23 | Política de cancelación | [src](ejercicio23-PoliticaDeCancelacion/src/main/java) | [test](ejercicio23-PoliticaDeCancelacion/src/test/java) |
-| 28 | Materiales digitales | [src](Ejercicio28.MaterialesDigitales/src/main/java) | [test](Ejercicio28.MaterialesDigitales/src/test/java) |
-| 35 | Servicios turísticos | [src](ejercicio35-ServiciosTuristicos/src/main/java) | [test](ejercicio35-ServiciosTuristicos/src/test/java) |
+| 28 | Materiales digitales | [src](Ejercicio28.MaterialesDigitales/src/main/java) | — |
+| 35 | Servicios turísticos | [src](ejercicio35-ServiciosTuristicos/src/main/java) | — |
 
 ## Exámenes
 
 | Examen | Ejercicio | Código | Tests |
 |--------|-----------|--------|-------|
-| 3ª fecha 2025 | Punto 2.2 — Entradas | [src](Examenes/Examen%203era%20Fecha%202025/Punto2.2-Entradas/src/main/java) | [test](Examenes/Examen%203era%20Fecha%202025/Punto2.2-Entradas/src/test/java) |
+| 3ª fecha 2025 | Punto 2.2 — Entradas | [src](Examenes/Examen%203era%20Fecha%202025/Punto2.2-Entradas/src/main/java) | — |
